@@ -1,0 +1,28 @@
+h1	{
+	text-align: center;
+	color: gray;
+	border: 3px black;
+	border-style: dashed;
+	font-size: 75px;
+	font-style: oblique;
+	font-family: 'Permanent Marker';
+}
+
+h2	{
+text-align: left;
+color: gray;
+font-size: 25px;
+font-family: 'Courgette';
+}
+
+p {
+	margin: 25px 50px 25px 50px;
+}
+
+
+body {
+background-color: black;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
